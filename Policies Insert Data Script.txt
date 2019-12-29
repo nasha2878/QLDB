@@ -1,0 +1,50 @@
+INSERT INTO Policies
+<< {
+    'CustomerID' : 'C901',
+    'PolicyID' : 'P201',
+    'PolicyType' : 'Auto',
+    'StartDate' : '1992-03-12',
+    'EndDate' : '2019-10-7'
+},
+{
+    'CustomerID' : 'C902',
+    'PolicyID' : 'P202',
+    'PolicyType' : 'Life',
+    'StartDate' : '2001-10-1',
+    'EndDate' : '2019-10-7'
+},
+{
+   'CustomerID' : 'C902',
+    'PolicyID' : 'P203',
+    'PolicyType' : 'Auto',
+    'StartDate' : '2001-10-1',
+    'EndDate' : '2019-10-7'
+},
+{
+    'CustomerID' : 'C902',
+    'PolicyID' : 'P204',
+    'PolicyType' : 'Home',
+    'StartDate' : '2001-10-1',
+    'EndDate' : '2019-10-7'
+},
+{
+    'CustomerID' : 'C901',
+    'PolicyID' : 'P205',
+    'PolicyType' : 'Life',
+    'StartDate' : '1992-03-12',
+    'EndDate' : '2019-10-7'
+},
+{
+    'CustomerID' : 'C903',
+    'PolicyID' : 'P206',
+    'PolicyType' : 'Auto',
+    'StartDate' : '1992-03-12',
+    'EndDate' : '2019-10-7'
+},
+{
+    'CustomerID' : 'C901',
+    'PolicyID' : 'P207',
+    'PolicyType' : 'Life',
+    'StartDate' : '1992-03-12',
+    'EndDate' : '2019-10-7'
+}>>
